@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Asifa707
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Asifa707/Asifa707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 
+ hello all i am asif love to do lot of 3d work now i am learning python so that i can land up in a corperate that all fellas looking to collaborate with ML AI teams 
+ i love to work in python and if you neen any 3d assets you can ping me asifa._7 IG 7200134807 whatsapp asifthuhi77@gmail.com
